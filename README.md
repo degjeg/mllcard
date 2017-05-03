@@ -3,3 +3,9 @@
 打卡成功响铃报警
 
 [下载安装包](https://github.com/degjeg/mllcard/blob/master/app-debug.apk)
+
+![](https://github.com/degjeg/mllcard/blob/master/screen/%E6%89%93%E5%8D%A1%E8%AE%B0%E5%BD%95.jpg)
+
+![https://github.com/degjeg/mllcard/blob/master/screen/%E7%99%BB%E5%BD%95.jpg]()
+
+![](https://github.com/degjeg/mllcard/blob/master/screen/%E9%9F%B3%E6%95%88%E9%80%89%E6%8B%A9.jpg)
